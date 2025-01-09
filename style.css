@@ -2,10 +2,7 @@
     padding: 0;
 }
 /* navigation section starts here  */
-ul {
-    /* display: inline-flex; */
-    /* display: flex; */
-}
+
 li {
     display: inline-flex;
     list-style-type: none;
