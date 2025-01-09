@@ -1,6 +1,7 @@
 * {
     padding: 0;
 }
+/* navigation section starts here  */
 ul {
     /* display: inline-flex; */
     /* display: flex; */
@@ -25,3 +26,4 @@ li:hover {
     background-color: black;
     transition: 0.6s;
 }
+/* navigation section ends here  */
